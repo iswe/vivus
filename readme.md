@@ -1,4 +1,4 @@
-# vivus.js
+# SVG for vivus.js
 
 Demo available on http://maxwellito.github.io/vivus
 
